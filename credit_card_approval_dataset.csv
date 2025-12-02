@@ -1,0 +1,501 @@
+age,income,employment_years,debt,num_credit_cards,num_dependents,education_level,marital_status,credit_history,past_defaults,approved
+56,149415,4,8502,6,0,Master,Married,Good,2,1
+69,44375,19,545,5,1,Bachelor,Single,Average,0,1
+46,31964,10,37114,7,0,High School,Married,Average,0,1
+32,128429,29,29430,6,3,PhD,Single,Average,1,1
+60,82215,9,9996,0,0,High School,Single,Average,0,1
+25,84042,7,27788,3,3,Master,Married,Good,0,1
+38,108468,5,29969,1,3,Master,Married,Poor,2,0
+56,24435,5,48543,6,2,High School,Divorced,Average,0,1
+36,93832,7,13919,5,4,High School,Divorced,Good,2,1
+40,66293,22,3810,0,3,PhD,Married,Average,3,1
+28,93781,14,30586,2,2,PhD,Single,Good,0,1
+28,58919,25,39974,0,4,High School,Single,Good,0,1
+41,136172,13,41773,0,3,High School,Single,Good,2,1
+53,109758,10,16371,3,3,High School,Single,Poor,3,0
+57,71573,11,45084,1,0,High School,Single,Good,1,1
+41,74101,25,29629,2,0,Bachelor,Divorced,Good,3,1
+20,41646,12,8436,4,4,High School,Married,Poor,2,0
+39,119185,7,12984,4,3,PhD,Divorced,Poor,3,0
+19,38049,29,33039,6,1,Master,Single,Good,2,1
+41,113116,17,19895,0,0,Bachelor,Single,Poor,2,0
+61,112379,24,18155,7,4,High School,Single,Average,1,1
+47,83385,0,10616,3,3,Master,Single,Average,0,1
+55,141131,14,37129,7,3,Bachelor,Married,Poor,2,0
+19,38289,7,39837,3,1,Master,Single,Poor,2,0
+38,125226,27,24574,4,4,High School,Married,Good,1,1
+50,115793,10,3430,6,3,High School,Single,Poor,2,0
+29,24823,11,12676,6,0,PhD,Married,Good,0,1
+39,56975,11,10816,6,1,High School,Divorced,Average,1,1
+61,24540,3,32733,2,4,High School,Single,Poor,0,0
+42,31364,15,20144,1,1,Bachelor,Married,Good,0,1
+66,42663,3,2050,2,0,PhD,Divorced,Good,1,1
+44,66991,4,44460,5,4,Bachelor,Single,Average,2,0
+59,119182,23,33933,5,1,Master,Single,Poor,0,1
+45,109704,4,24951,7,2,High School,Single,Average,0,1
+33,64115,7,32413,1,0,Master,Married,Good,0,1
+32,106007,9,34801,4,0,Bachelor,Married,Good,0,1
+64,26938,16,32913,1,0,High School,Divorced,Poor,1,0
+68,106680,27,47037,3,2,High School,Married,Good,1,1
+61,19000,25,40600,5,2,Bachelor,Married,Poor,3,0
+69,116042,8,25280,0,3,Bachelor,Single,Average,3,1
+20,108610,21,24557,0,1,Bachelor,Single,Poor,0,1
+54,118691,18,47054,4,3,Bachelor,Single,Poor,2,0
+68,53304,28,35400,3,1,Bachelor,Single,Good,0,1
+24,84449,13,4494,7,2,High School,Single,Good,2,1
+38,97986,7,15152,2,2,Bachelor,Single,Poor,0,1
+26,123940,8,23895,3,3,High School,Single,Good,3,1
+56,53494,21,9155,0,4,High School,Divorced,Good,3,1
+35,18373,10,31883,0,3,Bachelor,Divorced,Good,2,1
+21,112532,22,43194,7,1,Bachelor,Divorced,Poor,0,1
+42,107658,0,43001,5,3,PhD,Divorced,Good,2,1
+31,138633,13,1828,3,0,High School,Single,Poor,3,0
+67,115386,4,45028,3,1,Bachelor,Divorced,Good,0,1
+26,42350,20,41898,0,1,Bachelor,Single,Average,0,1
+43,108008,25,32123,2,4,Bachelor,Divorced,Good,2,1
+19,109297,13,37573,4,2,PhD,Married,Good,1,1
+37,40351,3,806,6,1,PhD,Divorced,Poor,2,0
+45,103668,21,40970,4,2,Master,Divorced,Poor,3,0
+64,129585,22,29757,3,3,High School,Single,Good,3,1
+24,90353,24,34636,4,0,Master,Divorced,Average,3,1
+61,80953,0,14561,0,4,Bachelor,Married,Good,3,1
+25,72458,21,48280,0,2,PhD,Single,Good,3,1
+64,35358,22,24262,7,1,PhD,Single,Average,1,1
+52,18267,18,14899,3,2,Master,Divorced,Poor,0,0
+31,97745,7,48988,7,1,PhD,Single,Good,2,1
+34,104588,14,15934,3,2,Bachelor,Single,Poor,2,0
+53,53513,20,38197,6,1,PhD,Single,Poor,3,0
+67,26338,14,41844,6,3,Master,Single,Average,2,0
+57,146484,8,36332,5,1,Bachelor,Single,Average,3,1
+21,22543,20,34157,3,1,Master,Single,Poor,1,0
+19,120891,8,11593,2,0,PhD,Married,Good,1,1
+23,75692,9,40042,4,1,Master,Divorced,Poor,0,0
+59,59425,19,49976,3,0,Master,Married,Good,1,1
+21,53756,24,17320,1,4,High School,Single,Good,1,1
+46,33888,20,27376,5,0,PhD,Single,Average,0,1
+35,62295,25,43513,1,3,PhD,Divorced,Good,2,1
+43,129352,8,14199,0,0,Master,Married,Good,3,1
+61,98042,2,15876,6,4,High School,Divorced,Poor,3,0
+51,100999,19,8245,4,3,PhD,Married,Average,2,1
+27,32955,24,7214,3,2,Bachelor,Single,Good,0,1
+53,52841,25,726,1,2,Master,Divorced,Good,2,1
+31,85640,10,46600,4,0,PhD,Divorced,Average,1,1
+48,76476,5,11362,0,0,Bachelor,Single,Poor,0,0
+65,59811,1,18297,6,4,PhD,Divorced,Average,0,1
+32,86180,6,30448,2,4,Bachelor,Married,Average,0,1
+25,127856,17,26172,5,1,Master,Married,Good,3,1
+31,83450,26,42874,4,4,PhD,Married,Good,2,1
+40,126888,1,7657,4,1,PhD,Married,Poor,0,1
+57,125448,26,18850,2,3,High School,Single,Good,0,1
+38,29397,16,25425,4,0,Master,Divorced,Good,0,1
+33,146800,10,26685,0,3,Bachelor,Married,Average,2,1
+62,134180,26,47319,0,4,PhD,Single,Good,3,1
+35,81234,11,24578,2,3,PhD,Divorced,Poor,1,0
+64,54954,26,28831,5,3,Bachelor,Divorced,Average,3,1
+41,94459,18,7906,3,3,Master,Single,Poor,0,1
+43,74163,21,7287,1,4,High School,Single,Average,3,1
+42,66934,23,33660,3,3,High School,Married,Good,3,1
+62,69098,24,10222,4,1,PhD,Divorced,Average,1,1
+58,20486,6,37443,1,4,Bachelor,Divorced,Average,2,0
+46,101900,19,34701,7,3,PhD,Single,Good,2,1
+32,141020,5,17764,2,4,Bachelor,Divorced,Good,3,1
+62,117795,20,44641,2,2,High School,Married,Poor,3,0
+18,102508,23,17674,5,1,Master,Divorced,Poor,2,0
+42,133324,0,18024,1,3,Bachelor,Single,Good,2,1
+24,75566,16,46007,0,2,High School,Single,Good,1,1
+26,42192,28,23874,1,2,PhD,Married,Good,0,1
+41,16062,10,43642,4,4,Bachelor,Married,Average,3,0
+18,99076,21,32284,0,2,Master,Divorced,Average,2,1
+61,104780,25,17602,6,1,PhD,Divorced,Average,3,1
+25,36689,27,37784,6,1,PhD,Single,Good,3,1
+41,26174,17,23265,7,0,High School,Married,Poor,2,0
+28,103461,20,25931,6,1,Bachelor,Married,Good,1,1
+68,141174,16,28841,2,2,PhD,Married,Average,3,1
+34,118033,6,29192,1,1,Master,Divorced,Average,1,1
+25,24348,16,46542,6,4,Bachelor,Married,Good,2,1
+52,53102,19,42520,3,0,Master,Single,Good,0,1
+52,89460,8,15585,5,2,PhD,Single,Average,0,1
+50,117634,16,25559,3,0,Master,Divorced,Average,3,1
+22,104930,19,40059,6,2,High School,Divorced,Average,2,1
+59,21801,21,33742,7,4,Master,Married,Good,1,1
+56,118150,21,4133,5,0,Bachelor,Divorced,Average,3,1
+58,16542,27,14663,4,3,Master,Single,Average,2,1
+45,36677,28,21754,3,2,Master,Married,Poor,2,0
+24,54081,7,3972,7,3,High School,Single,Good,1,1
+26,108105,16,5295,1,0,Master,Married,Poor,3,0
+25,34065,6,46681,1,3,Master,Divorced,Poor,2,0
+29,103092,0,41873,3,3,PhD,Married,Average,2,0
+51,69693,12,29125,6,0,PhD,Married,Good,2,1
+50,41962,29,40996,7,4,Bachelor,Single,Average,1,1
+65,43295,22,9903,1,3,PhD,Single,Good,3,1
+40,28807,18,3020,4,3,PhD,Married,Poor,3,0
+41,147396,26,41755,0,4,PhD,Divorced,Good,3,1
+54,106267,23,20420,6,3,PhD,Divorced,Average,3,1
+52,34870,18,21452,7,3,High School,Single,Average,0,1
+61,41790,29,45648,4,3,PhD,Divorced,Average,0,1
+57,133874,29,38001,7,1,High School,Single,Good,3,1
+39,40289,28,9516,5,4,High School,Divorced,Poor,1,1
+44,30485,16,47327,4,3,PhD,Married,Poor,0,0
+52,59482,12,49469,6,4,Master,Single,Good,2,1
+18,101188,28,2396,5,2,High School,Single,Average,0,1
+52,19748,29,18546,6,2,Master,Married,Poor,2,0
+54,18709,15,19129,1,3,Master,Single,Average,3,0
+64,138961,7,1591,0,4,PhD,Divorced,Good,0,1
+31,45355,18,11303,6,4,Bachelor,Divorced,Average,1,1
+20,57918,17,30561,6,4,PhD,Single,Poor,0,0
+18,67224,0,6183,1,1,Bachelor,Divorced,Poor,0,0
+22,54298,13,26572,2,2,Bachelor,Single,Average,0,1
+43,95219,18,34080,1,4,PhD,Married,Good,3,1
+31,76629,14,20695,5,4,PhD,Single,Average,1,1
+56,81040,17,7314,1,1,Bachelor,Married,Good,0,1
+44,43016,1,19623,1,1,PhD,Divorced,Average,1,1
+26,38960,21,2139,0,4,Bachelor,Married,Poor,3,0
+32,48591,27,47456,1,0,Master,Divorced,Good,2,1
+32,118333,16,31290,7,4,PhD,Single,Good,0,1
+43,129821,17,18088,6,4,Master,Divorced,Good,1,1
+59,51395,29,39692,7,1,High School,Single,Poor,1,0
+30,144695,5,33130,0,1,Master,Single,Average,3,1
+68,49620,18,32088,3,4,Master,Married,Poor,0,0
+49,143148,3,26292,2,4,Bachelor,Married,Good,2,1
+56,35559,0,46249,7,4,Master,Married,Average,1,0
+66,108396,7,20670,0,1,PhD,Married,Poor,0,1
+69,36732,28,3738,5,4,Bachelor,Divorced,Good,2,1
+49,106362,22,2469,3,4,High School,Divorced,Good,1,1
+21,28843,6,22534,0,3,PhD,Divorced,Poor,1,0
+47,129065,2,48874,0,0,High School,Single,Poor,2,0
+54,86726,9,49708,2,2,Master,Divorced,Poor,2,0
+40,32640,9,9017,6,0,PhD,Divorced,Good,3,1
+56,67528,18,2808,7,3,PhD,Divorced,Poor,0,1
+62,53413,13,49138,5,2,High School,Married,Good,0,1
+32,67638,1,47638,4,4,PhD,Divorced,Poor,3,0
+60,125133,27,12713,7,3,PhD,Single,Good,1,1
+46,121357,0,40329,4,4,PhD,Married,Good,2,1
+53,93859,22,2719,0,1,Master,Single,Average,2,1
+30,114657,22,22890,1,3,High School,Divorced,Poor,2,0
+49,26023,27,11700,5,1,PhD,Married,Poor,1,0
+24,36447,17,36509,3,3,Bachelor,Single,Good,2,1
+68,140899,6,42534,1,3,Bachelor,Divorced,Good,2,1
+39,38959,28,36766,1,1,Bachelor,Single,Good,3,1
+45,81203,7,26705,7,2,Bachelor,Single,Average,1,1
+19,134156,0,18787,5,0,Master,Single,Average,0,1
+59,24337,24,48845,6,4,PhD,Divorced,Good,3,1
+62,61427,22,26588,0,3,High School,Divorced,Poor,3,0
+23,76529,2,26123,0,4,PhD,Single,Poor,0,0
+45,117023,23,33062,0,1,Master,Married,Average,3,1
+45,99665,22,10177,0,4,Bachelor,Married,Average,1,1
+61,120787,26,21727,7,1,Master,Divorced,Good,2,1
+61,48307,28,30220,4,4,PhD,Divorced,Poor,1,0
+37,142016,7,9882,0,0,High School,Divorced,Good,0,1
+47,19835,21,1136,4,0,Master,Divorced,Average,0,1
+28,35159,24,34832,4,0,High School,Divorced,Poor,3,0
+45,136790,14,31966,6,0,Master,Married,Poor,1,1
+42,120616,4,7009,0,0,High School,Divorced,Average,1,1
+56,93752,2,12987,2,0,High School,Single,Good,0,1
+50,70284,18,37311,3,1,Bachelor,Single,Good,1,1
+18,72043,0,31575,1,3,High School,Married,Poor,0,0
+44,112007,27,1007,4,4,Bachelor,Single,Average,1,1
+69,97844,14,5445,5,0,PhD,Married,Poor,1,1
+30,42532,7,10706,5,1,PhD,Married,Average,1,1
+58,137402,1,47517,3,1,Bachelor,Single,Good,0,1
+20,133012,2,44486,5,1,Bachelor,Divorced,Average,3,0
+56,71178,23,29257,2,3,Master,Single,Good,1,1
+23,64407,13,21736,5,4,Master,Single,Average,0,1
+25,65990,23,42207,1,3,Master,Married,Poor,0,0
+44,144473,13,13281,1,2,PhD,Single,Good,1,1
+26,73141,10,1435,4,1,Master,Married,Poor,1,0
+54,71570,15,33339,0,2,High School,Divorced,Poor,3,0
+50,16015,3,35150,6,0,High School,Divorced,Good,0,1
+68,76813,19,25821,2,0,Master,Divorced,Good,0,1
+59,42712,4,26660,4,3,High School,Single,Poor,2,0
+61,115497,21,5084,2,4,PhD,Married,Poor,0,1
+41,127816,20,16661,0,2,High School,Divorced,Poor,3,0
+32,143778,13,13507,7,4,PhD,Married,Poor,2,0
+49,77292,22,7059,5,3,Bachelor,Married,Good,2,1
+49,38833,15,18271,5,0,Bachelor,Divorced,Good,2,1
+41,35309,17,45539,6,4,Bachelor,Divorced,Poor,1,0
+58,21970,6,7491,0,4,Bachelor,Married,Average,1,1
+69,87474,9,47295,4,0,High School,Divorced,Average,0,1
+66,61540,6,14859,6,2,Master,Married,Good,2,1
+66,33017,0,8073,0,0,High School,Married,Poor,3,0
+69,90880,22,9077,3,4,PhD,Divorced,Poor,1,1
+29,120570,20,20953,1,2,High School,Single,Good,3,1
+56,23702,18,11383,6,2,High School,Divorced,Average,3,1
+19,146456,15,49146,6,0,PhD,Single,Average,1,1
+20,15404,28,2353,4,4,Bachelor,Married,Average,1,1
+66,27763,18,23821,2,3,Bachelor,Married,Good,1,1
+54,113142,3,37567,3,4,Bachelor,Single,Average,1,1
+66,95642,28,49838,4,1,Master,Married,Good,2,1
+34,65612,27,24860,0,3,PhD,Single,Good,2,1
+66,38574,17,21195,0,2,PhD,Single,Poor,2,0
+19,38524,1,11939,0,3,High School,Married,Average,2,0
+19,25916,0,25338,7,2,Master,Single,Good,0,1
+45,19809,14,21730,0,2,Bachelor,Divorced,Average,2,1
+40,136288,4,21427,2,3,Master,Divorced,Average,1,1
+54,53765,19,35196,3,2,PhD,Married,Poor,3,0
+49,60106,10,27083,5,2,PhD,Married,Average,2,1
+50,68932,9,21510,1,1,High School,Single,Poor,0,0
+18,72091,1,44064,2,4,High School,Single,Good,1,1
+36,36949,2,7813,2,4,PhD,Single,Average,3,0
+19,52744,22,31598,7,1,Bachelor,Single,Good,3,1
+61,123319,22,47182,5,3,Bachelor,Divorced,Average,2,1
+43,107193,11,27570,5,0,Master,Divorced,Good,3,1
+49,51187,19,27082,1,0,PhD,Married,Average,2,1
+23,139454,4,29241,1,0,PhD,Single,Average,2,1
+49,29489,4,30678,5,1,Bachelor,Single,Average,1,0
+21,76877,5,44569,0,1,Bachelor,Married,Average,1,1
+28,64922,29,11745,2,2,PhD,Single,Average,0,1
+34,109074,8,26029,4,0,High School,Single,Average,1,1
+55,52131,1,13025,1,3,PhD,Single,Average,1,1
+41,130765,20,36124,7,3,PhD,Single,Average,2,1
+22,88963,11,14288,7,0,Bachelor,Single,Average,1,1
+69,121884,2,23650,1,0,Bachelor,Married,Good,2,1
+51,140917,19,6540,5,0,High School,Single,Poor,2,1
+23,39285,25,32232,3,1,High School,Married,Average,1,1
+39,52626,21,16422,4,1,Master,Single,Poor,0,1
+28,34198,11,3342,4,1,PhD,Divorced,Average,0,1
+65,30254,23,41846,1,4,Bachelor,Divorced,Average,3,0
+33,59238,16,35612,0,3,High School,Divorced,Good,3,1
+50,16252,9,10396,3,3,Master,Divorced,Good,1,1
+26,54764,29,17482,4,2,Master,Married,Poor,0,1
+23,92709,23,23411,1,1,Bachelor,Married,Good,2,1
+33,68682,26,46766,7,4,Bachelor,Single,Good,3,1
+46,74494,13,13261,4,4,Master,Divorced,Poor,2,0
+20,96317,22,3093,6,3,High School,Married,Good,3,1
+37,80215,16,11722,3,1,Master,Single,Average,1,1
+53,93587,17,22042,3,2,PhD,Single,Poor,0,1
+36,21949,18,44413,6,1,PhD,Married,Poor,3,0
+43,70393,16,47851,2,0,Bachelor,Divorced,Average,0,1
+20,40934,13,28087,7,1,High School,Single,Good,2,1
+36,90745,8,32347,6,0,High School,Divorced,Poor,1,0
+37,109456,7,33756,5,0,PhD,Divorced,Poor,0,0
+49,68413,1,39214,5,2,Master,Divorced,Average,1,1
+24,112239,12,16335,1,3,Bachelor,Single,Average,0,1
+69,57318,24,28602,3,1,Master,Divorced,Good,2,1
+58,85390,6,48901,2,0,Master,Single,Poor,2,0
+50,58088,8,34450,2,1,Master,Divorced,Good,1,1
+57,118196,21,32196,4,3,High School,Single,Good,2,1
+56,70479,21,5626,4,3,PhD,Divorced,Average,3,1
+35,34963,10,7424,6,4,High School,Married,Poor,0,0
+57,70123,13,12857,2,3,PhD,Divorced,Poor,2,0
+18,140911,3,44923,6,2,Bachelor,Divorced,Poor,3,0
+28,117468,25,19982,7,0,Bachelor,Single,Average,1,1
+45,88477,25,11425,6,4,Master,Single,Average,3,1
+42,29388,28,1980,4,2,PhD,Divorced,Average,1,1
+67,20569,12,48290,3,1,PhD,Married,Average,1,0
+40,84836,1,26431,6,0,PhD,Married,Average,0,1
+48,119573,22,19440,0,3,Master,Single,Poor,0,1
+47,60002,4,41752,3,0,Master,Married,Good,3,1
+59,39071,10,17175,2,1,Bachelor,Divorced,Poor,0,0
+52,73243,5,48651,2,4,High School,Single,Good,0,1
+24,140827,17,26385,6,4,PhD,Divorced,Average,0,1
+33,123215,20,38158,3,4,PhD,Single,Good,3,1
+43,116570,9,23019,4,3,High School,Single,Poor,2,0
+65,84724,3,18639,4,2,PhD,Single,Poor,0,0
+69,130359,8,19994,5,2,Master,Single,Good,0,1
+66,90697,5,34375,2,0,Master,Married,Average,3,0
+19,43732,1,21563,1,3,PhD,Divorced,Average,2,0
+18,136465,16,39341,5,4,Master,Divorced,Poor,0,1
+65,72108,4,5776,4,4,Master,Divorced,Good,1,1
+29,126195,24,36444,3,1,PhD,Single,Average,3,1
+22,118081,5,3380,7,1,Bachelor,Married,Average,0,1
+54,51668,25,8711,4,4,High School,Divorced,Poor,0,1
+49,38061,11,8782,3,4,Master,Married,Average,1,1
+26,94252,22,17434,5,3,Bachelor,Single,Good,1,1
+58,54749,20,46765,2,2,Master,Divorced,Poor,3,0
+52,145560,9,20017,4,1,Master,Married,Poor,3,0
+36,119680,21,30707,6,2,High School,Single,Good,1,1
+65,66745,20,39110,3,3,Master,Married,Poor,3,0
+33,123464,26,17343,2,4,High School,Divorced,Average,1,1
+20,106865,24,38827,7,2,High School,Divorced,Average,0,1
+37,127428,5,41652,7,4,High School,Single,Good,1,1
+41,38624,26,5655,1,4,Bachelor,Single,Average,1,1
+50,38321,7,44859,3,0,PhD,Single,Good,2,1
+41,37574,1,15251,5,2,Bachelor,Married,Good,1,1
+69,133831,11,526,1,2,PhD,Married,Average,1,1
+28,110257,12,3224,1,4,PhD,Married,Good,2,1
+66,79291,24,47837,0,3,High School,Single,Average,3,1
+25,142600,20,11536,4,0,Master,Divorced,Poor,2,1
+53,65428,6,28541,3,4,High School,Divorced,Poor,0,0
+55,146374,9,13547,1,1,Master,Married,Good,2,1
+57,146127,12,34531,0,1,PhD,Married,Average,0,1
+37,126317,16,8712,5,0,High School,Divorced,Average,3,1
+52,142449,25,38565,2,3,Master,Divorced,Poor,2,1
+65,43699,20,9208,6,4,Bachelor,Married,Poor,2,0
+42,88686,27,5109,6,2,Master,Married,Average,3,1
+52,82661,29,49268,3,0,High School,Divorced,Good,0,1
+42,59247,25,35201,1,3,Bachelor,Single,Poor,2,0
+46,120113,13,16967,6,2,Master,Married,Good,0,1
+35,19621,1,29759,4,1,Master,Divorced,Good,2,1
+63,33030,27,20172,6,1,Master,Divorced,Poor,1,0
+35,97838,21,36935,6,2,Master,Divorced,Good,2,1
+19,99717,10,26589,6,0,Master,Divorced,Good,3,1
+52,53638,0,30015,7,1,Bachelor,Single,Average,3,0
+33,82067,18,29009,0,4,PhD,Divorced,Good,0,1
+58,133033,20,17773,1,2,Bachelor,Married,Average,2,1
+53,120977,3,41125,4,2,Bachelor,Single,Poor,0,0
+50,103869,18,26143,1,1,Bachelor,Divorced,Poor,0,1
+21,120186,25,6154,7,0,PhD,Single,Average,1,1
+50,49674,28,21804,3,4,High School,Married,Poor,1,1
+31,61271,20,41688,3,0,PhD,Divorced,Good,3,1
+38,88688,10,20581,3,3,Bachelor,Married,Good,0,1
+65,126076,7,30087,5,3,Master,Divorced,Good,3,1
+37,16062,10,49930,6,1,Master,Divorced,Poor,2,0
+25,65448,3,32981,5,1,Bachelor,Divorced,Good,0,1
+24,110462,16,3762,0,1,Master,Divorced,Poor,0,1
+20,62915,26,46167,3,3,Bachelor,Divorced,Good,2,1
+34,19632,6,9768,7,0,Master,Single,Average,2,0
+50,119592,7,43408,4,0,PhD,Divorced,Poor,3,0
+65,149668,2,39499,1,1,High School,Divorced,Poor,3,0
+29,124779,21,38559,6,4,High School,Single,Good,2,1
+68,123099,1,48590,2,0,PhD,Single,Poor,3,0
+39,22561,22,8783,4,3,PhD,Single,Poor,2,0
+39,97152,14,46389,6,2,Bachelor,Single,Average,0,1
+63,140036,23,29781,5,2,Bachelor,Single,Average,0,1
+47,139049,21,30811,5,2,Bachelor,Single,Good,1,1
+55,41734,21,48787,4,4,Master,Divorced,Average,0,1
+55,41069,4,35488,5,1,Bachelor,Divorced,Good,2,1
+62,27910,23,8905,3,3,PhD,Married,Good,3,1
+68,88479,0,9127,0,4,High School,Divorced,Good,1,1
+25,96264,25,22431,1,3,Master,Divorced,Poor,3,0
+44,38275,3,49153,0,3,Bachelor,Single,Average,2,0
+44,87274,14,6368,6,1,Master,Single,Good,0,1
+51,115776,19,27424,1,2,Master,Divorced,Average,1,1
+38,63447,18,46824,7,1,Bachelor,Married,Good,2,1
+47,141394,2,45004,1,4,Master,Single,Average,1,1
+50,90703,19,18333,0,4,High School,Divorced,Average,1,1
+45,91090,10,23116,4,4,PhD,Divorced,Good,0,1
+64,32260,16,47219,1,1,PhD,Married,Poor,2,0
+50,127581,29,43201,7,3,High School,Married,Average,3,1
+22,18812,26,15525,7,3,Master,Single,Poor,1,0
+65,131148,12,23398,7,0,Bachelor,Married,Poor,1,1
+36,131421,10,32857,0,4,Master,Divorced,Good,3,1
+21,16605,1,10361,1,3,High School,Divorced,Good,2,1
+52,87303,8,16369,2,0,Master,Married,Good,1,1
+66,91125,25,3041,4,3,PhD,Married,Average,1,1
+34,139040,1,105,3,4,Master,Married,Good,1,1
+61,19324,20,9078,1,2,High School,Married,Good,2,1
+45,91323,8,25003,7,4,PhD,Single,Average,2,1
+47,24111,8,6090,2,1,Master,Married,Average,3,0
+46,31389,7,38850,3,3,Master,Single,Good,2,1
+63,137177,16,49786,3,3,PhD,Divorced,Good,2,1
+23,56427,0,1925,6,1,Bachelor,Married,Good,0,1
+52,137883,24,18440,1,1,PhD,Single,Good,3,1
+58,146189,28,39685,0,2,Bachelor,Married,Poor,1,1
+54,140808,10,26015,1,3,High School,Divorced,Poor,2,0
+41,127221,7,33320,2,3,High School,Divorced,Good,1,1
+46,28234,9,25291,3,2,PhD,Divorced,Poor,1,0
+66,68441,24,36679,1,0,PhD,Married,Average,0,1
+63,15846,6,26289,0,2,High School,Married,Poor,2,0
+48,25954,2,3389,6,4,Bachelor,Single,Poor,3,0
+52,94239,2,25683,1,3,High School,Divorced,Good,2,1
+50,61514,17,13629,4,1,PhD,Married,Poor,1,0
+69,103236,4,24826,6,4,High School,Divorced,Poor,3,0
+38,112579,11,35198,0,3,PhD,Divorced,Poor,2,0
+49,57101,11,26630,2,2,PhD,Single,Poor,1,0
+40,79323,18,33226,3,4,High School,Single,Average,1,1
+50,106922,29,46163,1,3,Bachelor,Single,Good,0,1
+20,142534,5,32975,0,0,Master,Single,Good,0,1
+35,82584,1,899,6,0,High School,Divorced,Average,0,1
+42,119537,11,11653,4,1,Master,Single,Poor,1,1
+59,93477,18,27961,0,3,High School,Single,Average,2,1
+48,57533,4,16405,5,0,Master,Single,Poor,0,0
+20,16828,11,8601,7,2,Bachelor,Single,Average,2,1
+57,16917,26,33662,4,3,Bachelor,Divorced,Good,0,1
+63,35618,26,33282,6,2,High School,Single,Good,3,1
+41,47254,16,21288,2,2,PhD,Divorced,Good,3,1
+67,120292,28,29545,3,0,Master,Married,Poor,0,1
+49,62362,16,36877,6,3,PhD,Divorced,Poor,1,0
+64,35128,9,46026,7,4,PhD,Divorced,Average,0,1
+39,138781,24,15313,2,0,PhD,Single,Average,0,1
+40,80545,22,15349,1,0,Bachelor,Married,Good,1,1
+19,97180,16,7179,0,3,High School,Married,Poor,3,0
+44,102958,14,10326,5,3,High School,Married,Average,2,1
+59,148291,11,44555,4,2,Bachelor,Married,Poor,0,1
+19,54809,29,1560,4,3,Bachelor,Divorced,Poor,1,1
+43,131748,15,13612,0,2,High School,Married,Good,0,1
+34,20287,23,17650,5,0,PhD,Divorced,Good,1,1
+57,23512,18,26745,0,1,Master,Divorced,Poor,2,0
+50,147414,7,31890,1,4,Master,Divorced,Poor,2,0
+26,123872,20,20022,7,0,Master,Married,Poor,3,0
+60,108070,16,4780,2,3,PhD,Single,Poor,1,1
+65,94767,22,18311,6,4,High School,Single,Good,1,1
+56,112829,4,28380,4,1,Bachelor,Married,Average,3,1
+46,57078,21,44662,1,1,High School,Single,Good,3,1
+59,121288,15,2356,2,2,PhD,Single,Average,1,1
+43,98524,5,4790,1,4,Bachelor,Divorced,Poor,3,0
+52,27219,7,26911,5,2,PhD,Divorced,Average,2,0
+67,15235,24,49458,4,0,Master,Married,Good,0,1
+42,57929,17,24363,6,4,Master,Married,Good,2,1
+41,142309,24,20049,0,0,PhD,Single,Poor,3,0
+30,82444,11,10181,0,2,Bachelor,Divorced,Good,1,1
+24,116834,14,39825,2,4,Bachelor,Married,Poor,1,0
+53,99555,26,16082,6,2,High School,Married,Good,2,1
+62,88698,25,661,7,4,Master,Married,Good,1,1
+37,139450,8,37412,3,2,High School,Married,Poor,3,0
+18,58925,12,48479,5,1,High School,Married,Average,2,0
+25,102388,25,2920,2,2,PhD,Married,Good,1,1
+63,23007,14,25658,3,1,PhD,Single,Average,0,1
+33,73596,9,48770,1,2,High School,Divorced,Good,0,1
+31,136101,15,14025,5,4,Master,Divorced,Good,3,1
+29,103861,6,8946,1,4,PhD,Married,Good,1,1
+68,101740,16,28706,7,4,High School,Divorced,Good,3,1
+40,30524,22,45500,6,3,High School,Divorced,Average,2,1
+32,146149,25,39004,4,0,High School,Divorced,Average,0,1
+45,140501,20,16309,5,4,High School,Married,Good,2,1
+51,35611,21,46286,3,1,High School,Married,Good,1,1
+19,29060,25,33120,7,4,High School,Divorced,Average,3,1
+49,58303,6,30027,4,3,PhD,Divorced,Poor,3,0
+40,54711,13,7005,0,1,Master,Married,Poor,3,0
+39,88340,14,46804,3,3,High School,Single,Average,2,1
+68,117974,20,49310,2,1,Bachelor,Divorced,Good,0,1
+42,82728,6,956,0,2,PhD,Single,Good,2,1
+39,26246,8,34839,7,0,PhD,Divorced,Poor,2,0
+39,142796,18,8595,0,0,High School,Single,Poor,1,1
+66,107263,15,47908,2,3,PhD,Single,Average,1,1
+69,26302,7,12803,5,0,High School,Single,Poor,1,0
+59,82506,17,25963,0,3,Master,Married,Average,0,1
+23,56157,26,36221,6,3,Master,Single,Poor,0,1
+32,69917,22,39443,3,3,PhD,Single,Poor,1,0
+60,111646,28,33723,4,0,PhD,Single,Poor,1,1
+54,98122,17,39063,0,3,Bachelor,Divorced,Good,0,1
+50,39519,29,48689,3,0,PhD,Single,Good,3,1
+25,95910,19,15282,1,3,Bachelor,Divorced,Good,0,1
+61,135430,6,4703,3,4,Master,Single,Poor,0,1
+61,86324,2,6563,4,3,Master,Single,Average,0,1
+22,20408,17,25849,3,1,High School,Married,Average,1,1
+56,74379,26,31860,2,3,Master,Divorced,Average,3,1
+21,40053,9,31585,7,2,Bachelor,Single,Average,0,1
+23,146994,6,22015,4,3,PhD,Divorced,Good,1,1
+62,113723,16,12003,7,1,High School,Divorced,Good,2,1
+49,66356,13,43585,5,1,Bachelor,Married,Poor,2,0
+69,25789,23,26958,7,0,PhD,Married,Poor,0,0
+47,112720,2,26017,1,4,High School,Married,Average,2,1
+64,81656,11,11171,2,3,Master,Married,Good,3,1
+52,59028,27,45350,5,0,Bachelor,Married,Average,2,1
+57,79484,12,12201,3,4,PhD,Married,Poor,2,0
+69,47154,1,29426,4,3,High School,Married,Poor,3,0
+33,17336,2,17778,1,2,High School,Married,Average,0,1
+30,118677,4,45241,2,3,Master,Single,Poor,0,0
+67,82779,10,42229,5,1,PhD,Divorced,Average,3,0
+59,34029,7,21116,5,1,Master,Married,Good,3,1
+47,74201,25,48364,1,2,Master,Married,Average,3,1
+36,47265,22,33297,6,0,PhD,Divorced,Good,2,1
+34,117916,22,19342,3,4,PhD,Single,Good,3,1
+36,61197,11,27490,1,3,PhD,Divorced,Poor,1,0
+45,140733,6,19975,5,1,Bachelor,Divorced,Poor,2,0
+43,86907,14,26723,0,0,PhD,Married,Poor,0,1
+54,143876,23,23279,2,2,High School,Divorced,Average,0,1
+43,79435,16,12765,1,1,Master,Divorced,Average,0,1
+40,55631,3,46678,6,2,Bachelor,Married,Poor,2,0
+26,144038,28,11561,5,3,PhD,Married,Average,1,1
+29,35103,21,41899,3,4,Bachelor,Married,Poor,3,0
+18,79772,24,525,7,1,PhD,Married,Average,3,1
+18,141108,12,22861,5,1,Bachelor,Divorced,Good,0,1
+64,29382,17,49153,3,3,Master,Divorced,Good,0,1
+51,99291,0,33142,1,0,Master,Single,Poor,2,0
+49,116195,15,26916,3,4,High School,Single,Average,1,1
+65,149828,12,44965,4,1,High School,Divorced,Average,3,1
+42,35609,9,4648,4,4,PhD,Single,Good,2,1
+57,90683,11,35133,4,1,Master,Divorced,Good,3,1
+62,139714,29,30523,6,4,Bachelor,Single,Poor,0,1
+18,145330,1,29052,6,2,Bachelor,Married,Good,3,1
